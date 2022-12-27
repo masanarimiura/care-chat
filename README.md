@@ -65,7 +65,7 @@ Laravel Framework 8.83.23
 
 ## テーブル設計
 </br>
-<img width="336" alt="スクリーンショット 0004-08-30 13 43 57" src="https://user-images.githubusercontent.com/104340462/187351107-055d3e58-3248-4f50-9752-0a7dda920ab6.png">
+<img width="258" alt="スクリーンショット 0004-12-27 15 15 52" src="https://user-images.githubusercontent.com/104340462/209620467-f98a7cf6-235d-43ba-9fc9-3655aafb8bad.png">
 
 ## ER図
 </br>
