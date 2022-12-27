@@ -69,4 +69,4 @@ Laravel Framework 8.83.23
 
 ## ER図
 </br>
-<img width="563" alt="スクリーンショット 0004-08-30 13 51 16" src="https://user-images.githubusercontent.com/104340462/187351884-f4ecc13f-25da-482c-a432-95622922529e.png">
+<img width="1065" alt="スクリーンショット 0004-12-27 15 18 07" src="https://user-images.githubusercontent.com/104340462/209620619-df01d952-dfe7-46da-a43d-6ef1fac9fe15.png">
